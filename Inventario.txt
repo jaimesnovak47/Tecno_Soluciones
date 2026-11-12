@@ -15,3 +15,7 @@ Cantidad: 5
 Producto: Monitor
 Precio: 550000
 Cantidad: 5
+
+Producto: Impresora 
+Precio: 350000 
+Cantidad: 3
