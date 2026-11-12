@@ -11,3 +11,7 @@ Cantidad: 15
 Producto: Cámara
 Precio: 20000
 Cantidad: 5
+
+Producto: Monitor
+Precio: 550000
+Cantidad: 5
